@@ -31,7 +31,7 @@ console.log(fruit.indexOf("fruit"));
 // Метод Slice 
 
 const logg = "Hello world!"; 
-Console.log(logg.slice(6, 10)); 
+console.log(logg.slice(6, 10)); 
 
 const hhh = "Box to Box";
 console.log(hhh.slice(1, 4));
